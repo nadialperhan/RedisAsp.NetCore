@@ -1,0 +1,257 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\repository\\iproductrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\controllers\\weatherforecastcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\model\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\repository\\productrepositorywithcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\repository\\productrepositorywithcache.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\repository\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD94CEC-E52E-4BE5-9509-CF3C4931F027}|RedisExampleCache\\RedisExampleCache.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexamplecache\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD94CEC-E52E-4BE5-9509-CF3C4931F027}|RedisExampleCache\\RedisExampleCache.csproj|solutionrelative:redisexamplecache\\redisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CFD94CEC-E52E-4BE5-9509-CF3C4931F027}|RedisExampleCache\\RedisExampleCache.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexamplecache\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CFD94CEC-E52E-4BE5-9509-CF3C4931F027}|RedisExampleCache\\RedisExampleCache.csproj|solutionrelative:redisexamplecache\\iredisservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|c:\\users\\nadi alperhan\\desktop\\redisexample\\redisexampleapi\\redisexampleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{02501D39-0BF3-4046-A3A1-A34E9CCE0380}|RedisExampleApi\\RedisExampleApi.csproj|solutionrelative:redisexampleapi\\redisexampleapi.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Services\\IProductService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Services\\IProductService.cs",
+              "RelativeToolTip": "RedisExampleApi\\Services\\IProductService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:40:50.999Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Services\\ProductService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Services\\ProductService.cs",
+              "RelativeToolTip": "RedisExampleApi\\Services\\ProductService.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAA9wBsAAAA3AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T19:40:14.103Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Program.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Program.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Program.cs",
+              "RelativeToolTip": "RedisExampleApi\\Program.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAAAAsAAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:12:00.552Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\ProductRepository.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Repository\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\ProductRepository.cs",
+              "RelativeToolTip": "RedisExampleApi\\Repository\\ProductRepository.cs",
+              "ViewState": "AQIAAA0AAAAAAAAAAAA1wBcAAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:17:52.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Controllers\\ProductsController.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "RedisExampleApi\\Controllers\\ProductsController.cs",
+              "ViewState": "AQIAABMAAAAAAAAAAAAgwB8AAAA+AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:24:28.245Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Model\\Product.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Model\\Product.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Model\\Product.cs",
+              "RelativeToolTip": "RedisExampleApi\\Model\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAQAAAAYAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:07:09.268Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\IProductRepository.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Repository\\IProductRepository.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\IProductRepository.cs",
+              "RelativeToolTip": "RedisExampleApi\\Repository\\IProductRepository.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwAgAAAAzAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:17:35.676Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "RedisService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleCache\\RedisService.cs",
+              "RelativeDocumentMoniker": "RedisExampleCache\\RedisService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleCache\\RedisService.cs",
+              "RelativeToolTip": "RedisExampleCache\\RedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAAmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:16:58.152Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "WeatherForecastController.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Controllers\\WeatherForecastController.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "RedisExampleApi\\Controllers\\WeatherForecastController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAABEAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:06:39.323Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ProductRepositoryWithCache.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\ProductRepositoryWithCache.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\Repository\\ProductRepositoryWithCache.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\Repository\\ProductRepositoryWithCache.cs",
+              "RelativeToolTip": "RedisExampleApi\\Repository\\ProductRepositoryWithCache.cs",
+              "ViewState": "AQIAADQAAAAAAAAAAAAowD4AAAAIAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:56:37.333Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\appsettings.json",
+              "RelativeDocumentMoniker": "RedisExampleApi\\appsettings.json",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\appsettings.json",
+              "RelativeToolTip": "RedisExampleApi\\appsettings.json",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAIAAAAaAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-27T18:18:31.555Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "IRedisService.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleCache\\IRedisService.cs",
+              "RelativeDocumentMoniker": "RedisExampleCache\\IRedisService.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleCache\\IRedisService.cs",
+              "RelativeToolTip": "RedisExampleCache\\IRedisService.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T18:15:24.691Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "RedisExampleApi\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\AppDbContext.cs",
+              "RelativeToolTip": "RedisExampleApi\\AppDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-27T17:10:27.542Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "RedisExampleApi",
+              "DocumentMoniker": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\RedisExampleApi.csproj",
+              "RelativeDocumentMoniker": "RedisExampleApi\\RedisExampleApi.csproj",
+              "ToolTip": "C:\\Users\\Nadi Alperhan\\Desktop\\RedisExample\\RedisExampleApi\\RedisExampleApi.csproj",
+              "RelativeToolTip": "RedisExampleApi\\RedisExampleApi.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-02-27T17:09:40Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

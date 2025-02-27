@@ -1,0 +1,10 @@
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\bin\Debug\netstandard2.1\RedisExampleCache.deps.json
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\bin\Debug\netstandard2.1\RedisExampleCache.dll
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\bin\Debug\netstandard2.1\RedisExampleCache.pdb
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.csproj.AssemblyReference.cache
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.AssemblyInfoInputs.cache
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.AssemblyInfo.cs
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.csproj.CoreCompileInputs.cache
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.dll
+C:\Users\Nadi Alperhan\Desktop\RedisExample\RedisExampleCache\obj\Debug\netstandard2.1\RedisExampleCache.pdb
